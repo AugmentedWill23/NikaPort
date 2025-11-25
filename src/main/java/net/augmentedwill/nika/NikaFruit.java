@@ -1,5 +1,6 @@
 package net.augmentedwill.nika;
 
+import net.augmentedwill.nika.items.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -16,15 +17,16 @@ import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
-@Mod(TheDevilfruits.MOD_ID)
-public class TheDevilfruits {
+@Mod(NikaFruit.MOD_ID)
+public class NikaFruit {
     public static final String MOD_ID = "nika";
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public TheDevilfruits(IEventBus modEventBus, ModContainer modContainer) {
+    public NikaFruit(IEventBus modEventBus, ModContainer modContainer) {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
+        ModItems.register(modEventBus);
 
         NeoForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);

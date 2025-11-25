@@ -10,10 +10,10 @@ public class NikaNikaFruit implements ModInitializer {
     public static final String MOD_ID = "nika-nika-fruit-v7tnmscy";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-    public static final Item NikaNikaFruit_ITEM;
-    public static final Item DARK_FRUIT_ITEM;
-    public static final Item QUAKE_FRUIT_ITEM;
-    public static final Item DARKXQUAKE_FRUIT_ITEM;
+    public static final Item NikaNikaFruit_ITEM; // Done (Just Registration, not the actual class
+    public static final Item DARK_FRUIT_ITEM; // Done (Just Registration, not the actual class
+    public static final Item QUAKE_FRUIT_ITEM; // Done (Just Registration, not the actual class
+    public static final Item DARKXQUAKE_FRUIT_ITEM; // Done (Just Registration, not the actual class
     public static final Item SOUL_FRUIT_ITEM;
     public static final Item DRAGON_FRUIT_ITEM;
     public static final Item OPERATION_FRUIT_ITEM;

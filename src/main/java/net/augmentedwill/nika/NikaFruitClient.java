@@ -11,11 +11,11 @@ import net.neoforged.neoforge.client.gui.ConfigurationScreen;
 import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 
 // This class will not load on dedicated servers. Accessing client side code from here is safe.
-@Mod(value = TheDevilfruits.MOD_ID, dist = Dist.CLIENT)
+@Mod(value = NikaFruit.MOD_ID, dist = Dist.CLIENT)
 // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
-@EventBusSubscriber(modid = TheDevilfruits.MOD_ID, value = Dist.CLIENT)
-public class TheDevilfruitsClient {
-    public TheDevilfruitsClient(ModContainer container) {
+@EventBusSubscriber(modid = NikaFruit.MOD_ID, value = Dist.CLIENT)
+public class NikaFruitClient {
+    public NikaFruitClient(ModContainer container) {
         // Allows NeoForge to create a config screen for this mod's configs.
         // The config screen is accessed by going to the Mods screen > clicking on your mod > clicking on config.
         // Do not forget to add translations for your config options to the en_us.json file.
@@ -25,7 +25,7 @@ public class TheDevilfruitsClient {
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
         // Some client setup code
-        TheDevilfruits.LOGGER.info("HELLO FROM CLIENT SETUP");
-        TheDevilfruits.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+        NikaFruit.LOGGER.info("HELLO FROM CLIENT SETUP");
+        NikaFruit.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
 }
