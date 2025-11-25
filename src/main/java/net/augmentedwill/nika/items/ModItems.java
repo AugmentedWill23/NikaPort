@@ -16,7 +16,7 @@ interface ModItems {
     DeferredItem<Item> QUAKE = item("quake_fruit", new Item(new Item.Properties().stacksTo(1)));
     DeferredItem<Item> DARKXQUAKE = item("dark_fruit", new Item(new Item.Properties().stacksTo(1)));
     DeferredItem<Item> DARK_FRUIT_ITEM = item("dark_fruit", new Item(new Item.Properties().stacksTo(1)));
-    DeferredItem<Item> DARK_FRUIT_ITEM = item("dark_fruit", new Item(new Item.Properties().stacksTo(1)));
+   // DeferredItem<Item> DARK_FRUIT_ITEM = item("dark_fruit", new Item(new Item.Properties().stacksTo(1)));
 
 
 
