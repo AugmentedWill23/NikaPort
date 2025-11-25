@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": { "id": "nika-nika-fruit-v7tnmscy:soul_fruit" },
+    "title": { "text": "The Grim Soul Keeper" },
+    "description": { "text": "Unlock the Soul ultimate by stealing three player souls" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  },
+  "sends_telemetry_event": false
+}

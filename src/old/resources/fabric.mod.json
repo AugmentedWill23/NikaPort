@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "nika-nika-fruit-v7tnmscy",
+  "version": "1",
+  "name": "The Devil fruits",
+  "description": "The Devil Fruits & Haki mod lets you eat one of several mythical fruits—like Dragon-Dragon, Quake-Quake, Dark-Dark and more—to gain a suite of powerful signature moves you unlock and master over time. After consuming your fruit, press R to cycle through fruit abilities, Z to activate the selected move, X for a quick-use, O to view your ultimate unlock conditions, and right-shift to awaken your ultimate form once you’ve met its mastery requirements. You can also unlock three forms of Haki by completing special Haki Book challenges—Armament (deal 10 000 fist damage), Observation (take 10 000 damage and then survive 15 m without being hit) and Conqueror’s (unique PvP kill challenge)—then cycle Haki with the arrow keys, select moves with H, and use Haki abilities with G; Armament boosts your damage and bypasses Observation defenses, Observation grants dodge and conditional immunity, and Conqueror’s emits a damaging aura that repels unprotected foes.",
+  "authors": [
+    "augmentedwill using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/nika-nika-fruit-v7tnmscy"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "assets/nika-nika-frit-v7tnmscy/textures/item/nika_nika_fruit_v7tnmscy.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nika_nika_fruit_v7tnmscy.NikaNikaFruit"
+    ],
+    "client": [
+      "nika_nika_fruit_v7tnmscy.NikaNikaFruitClient"
+    ],
+    "fabric-datagen": [
+      "nika_nika_fruit_v7tnmscy.NikaNikaFruitDataGenerator"
+    ]
+  },
+  "mixins": [
+    "nikamod.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

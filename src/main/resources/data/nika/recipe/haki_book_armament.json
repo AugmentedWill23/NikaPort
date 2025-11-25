@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " IB",
+    " BP",
+    "P  "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "B": "minecraft:book",
+    "P": "minecraft:black_dye"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:haki_book_armament", "count": 1 }
+}

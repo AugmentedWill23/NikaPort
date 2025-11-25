@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": { "id": "nika-nika-fruit-v7tnmscy:nika_nika_fruit_v7tnmscy" },
+    "title": { "text": "Joyboy" },
+    "description": { "text": "Unlock Gear Five by fate or by reaching Mastery 200" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  },
+  "sends_telemetry_event": false
+}

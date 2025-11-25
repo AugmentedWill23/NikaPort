@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PCP",
+    "PPP"
+  ],
+  "key": {
+    "P": "#minecraft:planks",
+    "C": "nika-nika-fruit-v7tnmscy:magic_core"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:devil_fruit_chest", "count": 1 }
+}

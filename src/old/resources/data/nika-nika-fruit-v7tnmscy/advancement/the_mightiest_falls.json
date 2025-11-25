@@ -1,0 +1,13 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:totem_of_undying" },
+    "title": { "text": "The Mightiest Falls" },
+    "description": { "text": "Die while holding the Quake-Quake Fruit in your offhand after consuming the Dark-Dark Fruit." },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  }
+}

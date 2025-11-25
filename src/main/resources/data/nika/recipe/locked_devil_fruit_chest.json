@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PKP",
+    "PPP"
+  ],
+  "key": {
+    "P": "#minecraft:planks",
+    "K": "nika-nika-fruit-v7tnmscy:ancient_key"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:locked_devil_fruit_chest", "count": 1 }
+}

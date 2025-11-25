@@ -1,0 +1,5 @@
+{
+  "display": {"icon": {"id": "nika-nika-fruit-v7tnmscy:nika_nika_fruit_v7tnmscy"},"title": {"text": "Mastery 90"},"description": {"text": "Unlock Toon Force"},"frame": "goal","show_toast": true,"announce_to_chat": true},
+  "criteria": {"impossible": {"trigger": "minecraft:impossible"}},
+  "sends_telemetry_event": false
+}

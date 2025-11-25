@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "net.augmentedwill.nika.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerDamageTrackingMixin",
+    "WaterWeaknessMixin",
+    "PlayerDeathMixin",
+    "TransformationEffectsMixin",
+    "PlayerTickMixin",
+    "EntityKillTrackingMixin",
+    "FruitPickupMixin"
+  ],
+  "client": [],
+  "server": [],
+  "minVersion": "0.8"
+}

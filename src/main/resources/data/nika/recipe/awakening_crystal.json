@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NAN",
+    "NNN"
+  ],
+  "key": {
+    "N": "minecraft:netherite_block",
+    "A": "minecraft:amethyst_shard"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:awakening_crystal", "count": 1 }
+}

@@ -1,4 +1,4 @@
-Made By AugmentedWill and kuko010/jak7b, But Licensed by creativemod.net.
+Made By AugmentedWill and kuko010/kuko, But Licensed by creativemod.net.
 
 
 CreativeMode Mods License

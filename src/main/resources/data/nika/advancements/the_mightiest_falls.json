@@ -1,0 +1,13 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:totem_of_undying" },
+    "title": { "text": "The Mightiest Falls" },
+    "description": { "text": "Reach Mastery 50 on both Dark and Quake, then consume the DarkxQuake fruit from a locked chest." },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  }
+}

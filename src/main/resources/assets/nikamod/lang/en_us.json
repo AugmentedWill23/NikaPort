@@ -1,0 +1,13 @@
+{
+  "itemGroup.nikamod": "Example Mod Tab",
+  "block.nikamod.example_block": "Example Block",
+  "item.nikamod.example_item": "Example Item",
+
+  "nikamod.configuration.title": "The Devil fruits Configs",
+  "nikamod.configuration.section.nikamod.common.toml": "The Devil fruits Configs",
+  "nikamod.configuration.section.nikamod.common.toml.title": "The Devil fruits Configs",
+  "nikamod.configuration.items": "Item List",
+  "nikamod.configuration.logDirtBlock": "Log Dirt Block",
+  "nikamod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nikamod.configuration.magicNumber": "Magic Number"
+}

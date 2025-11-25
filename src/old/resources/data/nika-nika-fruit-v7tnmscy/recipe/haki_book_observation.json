@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " LA",
+    " AB",
+    "B  "
+  ],
+  "key": {
+    "L": "minecraft:lapis_lazuli",
+    "A": "minecraft:amethyst_shard",
+    "B": "minecraft:book"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:haki_book_observation", "count": 1 }
+}

@@ -1,0 +1,39 @@
+{
+  "item.nika-nika-fruit-v7tnmscy.nika_nika_fruit_v7tnmscy": "Nika Nika Fruit",
+  
+  "key.categories.nika_nika_fruit": "The Devil fruits",
+  "key.nika_nika_fruit.cycle_move": "Cycle Move",
+  "key.nika_nika_fruit.use_move": "Use Move", 
+  "key.nika_nika_fruit.ultimate_transform": "Ultimate Transform",
+  "key.nika_nika_fruit.show_mastery": "Show Mastery Screen"
+,
+  "item.nika-nika-fruit-v7tnmscy.dark_fruit": "Dark-Dark Fruit",
+  "item.nika-nika-fruit-v7tnmscy.quake_fruit": "Quake-Quake Fruit",
+  "item.nika-nika-fruit-v7tnmscy.darkxquake_fruit": "DarkxQuake Fruit",
+  "advancements.nika-nika-fruit-v7tnmscy.the_menace_begins.title": "THE NEW MENACE",
+  "advancements.nika-nika-fruit-v7tnmscy.the_menace_begins.description": "Consume the DarkxQuake Fruit after reaching Mastery 50 on both Dark and Quake",
+  "item.nika-nika-fruit-v7tnmscy.soul_fruit": "Soul-Soul Fruit" ,
+  "item.nika-nika-fruit-v7tnmscy.mysterious_brew": "Mysterious Brew",
+  "item.nika-nika-fruit-v7tnmscy.devil_fruit_chest": "Normal Chest", 
+"item.nika-nika-fruit-v7tnmscy.dragon_fruit": "Dragon-Dragon Fruit", 
+"item.nika-nika-fruit-v7tnmscy.operation_fruit": "Operation Fruit",
+  "item.nika-nika-fruit-v7tnmscy.magic_core": "Magic Core",
+  "item.nika-nika-fruit-v7tnmscy.awakening_crystal": "Awakening Crystal",
+  "item.nika-nika-fruit-v7tnmscy.locked_devil_fruit_chest": "Locked Devil Fruit Chest",
+  "item.nika-nika-fruit-v7tnmscy.ancient_key": "Ancient Key",
+  "item.nika-nika-fruit-v7tnmscy.devils_key": "Devil's Key",
+  "item.nika-nika-fruit-v7tnmscy.devils_chest": "The Devil's Chest",
+
+  "item.nika-nika-fruit-v7tnmscy.haki_book_armament": "Armament Haki Book",
+  "item.nika-nika-fruit-v7tnmscy.haki_book_observation": "Observation Haki Book",
+  "item.nika-nika-fruit-v7tnmscy.haki_book_conquerors": "Conqueror's Haki Book",
+"item.nika-nika-fruit-v7tnmscy.blackbeards_dna": "Blackbeard's DNA",
+  "item.nika-nika-fruit-v7tnmscy.devil_fruit_knowledge": "Devil Fruit Knowledge",
+
+  "key.nika_nika_fruit.haki_cycle": "Haki: Select Move (H)",
+  "key.nika_nika_fruit.haki_use": "Haki: Use Move (G)",
+"key.nika_nika_fruit.haki_select_type": "Haki: Select Type (Up)",
+"key.nika_nika_fruit.haki_cycle_reverse": "Haki: Select Type (Down)",
+  "key.nika_nika_fruit.haki_show_mastery": "Haki: Show Mastery (Y)",
+  "key.nika_nika_fruit.haki_show_info": "Haki: Info (I)"
+}

@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": { "id": "nika-nika-fruit-v7tnmscy:darkxquake_fruit" },
+    "title": { "text": "THE MENACE BEGINS" },
+    "description": { "text": "Consume the DarkxQuake Fruit after reaching Mastery 50 on both Dark and Quake" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "impossible": { "trigger": "minecraft:impossible" }
+  },
+  "sends_telemetry_event": false
+}

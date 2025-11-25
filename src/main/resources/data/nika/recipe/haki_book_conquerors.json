@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RP",
+    " PB",
+    "B  "
+  ],
+  "key": {
+    "R": "minecraft:lightning_rod",
+    "P": "minecraft:purple_dye",
+    "B": "minecraft:book"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:haki_book_conquerors", "count": 1 }
+}

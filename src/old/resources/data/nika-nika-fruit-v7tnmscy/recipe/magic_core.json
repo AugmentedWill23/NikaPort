@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EDE",
+    "DNS",
+    "EDE"
+  ],
+  "key": {
+    "E": "minecraft:ender_pearl",
+    "D": "minecraft:diamond",
+    "S": "minecraft:nether_star"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:magic_core", "count": 1 }
+}

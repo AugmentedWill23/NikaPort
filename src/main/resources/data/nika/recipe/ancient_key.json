@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "GGD",
+    "  N"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "nika-nika-fruit-v7tnmscy:ancient_key", "count": 1 }
+}

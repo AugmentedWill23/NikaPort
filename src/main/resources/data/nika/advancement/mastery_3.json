@@ -1,0 +1,5 @@
+{
+  "display": {"icon": {"id": "nika-nika-fruit-v7tnmscy:nika_nika_fruit_v7tnmscy"},"title": {"text": "Mastery 3"},"description": {"text": "Unlock Balloon"},"frame": "task","show_toast": true,"announce_to_chat": false},
+  "criteria": {"impossible": {"trigger": "minecraft:impossible"}},
+  "sends_telemetry_event": false
+}
